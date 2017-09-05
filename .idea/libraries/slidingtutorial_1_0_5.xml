@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="slidingtutorial-1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ea587199f1445e7c16fe5d70e9c3f6234130b40a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ea587199f1445e7c16fe5d70e9c3f6234130b40a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cleveroad/slidingtutorial/1.0.5/c70efb8bd5e677fd99e0ed087f32519440143c19/slidingtutorial-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
